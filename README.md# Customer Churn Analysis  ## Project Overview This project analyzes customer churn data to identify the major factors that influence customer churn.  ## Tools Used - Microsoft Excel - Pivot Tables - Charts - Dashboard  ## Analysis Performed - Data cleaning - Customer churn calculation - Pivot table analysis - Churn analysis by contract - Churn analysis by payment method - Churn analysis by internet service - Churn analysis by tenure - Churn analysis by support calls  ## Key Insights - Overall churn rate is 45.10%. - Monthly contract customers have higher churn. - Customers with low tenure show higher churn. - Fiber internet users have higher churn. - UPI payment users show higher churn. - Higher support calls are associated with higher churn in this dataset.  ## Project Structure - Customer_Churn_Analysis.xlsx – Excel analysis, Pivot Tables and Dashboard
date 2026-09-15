@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+ Customer Churn Analysis
 
 ## Project Overview
 This project analyzes customer churn data to identify the major factors that influence customer churn.
@@ -29,3 +29,7 @@ This project analyzes customer churn data to identify the major factors that inf
 
 ## Project Structure
 - Customer_Churn_Analysis.xlsx – Excel analysis, Pivot Tables and Dashboard
+
+## Dashboard
+![Customer churn Dashboard]
+(customer-churn-dashboard.png)
